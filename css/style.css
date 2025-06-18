@@ -1,0 +1,179 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/*header*/
+header{
+border-bottom: 1px solid #d5d6d8;
+margin-top: 10px;
+}
+
+.menu{
+    width: 31%;
+    float: right;
+}
+
+.menu ul li{
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 21px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: #0f2656;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.logo{
+    width: 9%;
+    float: left;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+/*header*/
+
+/*Banner*/
+.container2{
+    width: 50%;
+    text-align: center;
+    margin: 90px 480px 0;
+}
+
+.b_img img{
+    width: 100%;
+}
+
+.b_title h1{
+    color: #0f2656;
+}
+
+.b_title h2{
+    color: #008aff;
+    padding: 0 20px;
+}
+
+.b_title{
+    font-size: 40px;
+    font-family: sans-serif;
+    line-height: 35px;
+}
+
+.b_text{
+    font-family: sans-serif;
+    line-height: 28px;
+    color: #0f2656;
+}
+/*Banner*/
+
+/*section1*/
+.s1_part1{
+    width: 20%;
+    float: left;
+    text-align: right;
+    margin: 0 550px 0;
+    line-height: 28px;
+}
+
+.s1_part2{
+    width: 21%;
+    float: right;
+    text-align: left;
+    margin: -220px 550px 0px;
+}
+
+.section1{
+    overflow: hidden;
+    margin-top: 100px;
+}
+
+.s1_title{
+    font-size: 32px;
+    color: #f15f6e;
+    line-height: 10px;
+}
+
+.s1_title2{
+    font-size: 33px;
+    color: #0f2656;
+}
+
+.s1_text{
+    color: #0f2656;
+}
+/*section1*/
+
+/*section2*/
+.s2_item{
+    width: 27%;
+    background-color: #fdebed;
+    padding-bottom: 60px;
+    float: left;
+    margin-left: 55px;
+}
+
+.s2_img{
+
+}
+
+.s2_img img{
+    width: 100%;
+}
+
+.s2_text{
+    line-height: 30px;
+    padding-left: 25px;
+}
+
+.s2_title{
+    padding-left: 30px;
+}
+
+.section2{
+    overflow: hidden;
+    margin-left: 110px;
+    margin-top: 100px;
+}
+
+.i2_img div{
+width: 368px;
+}
+
+.i3_img div{
+width: 368px;
+}
+
+.item2{
+background-color: #ebf9f4;
+}
+
+.item3{
+background-color: #fff7e8;
+}
+/*section2*/
+
+/*footer*/
+.f_text{
+    text-align: center;
+    color: #fdebed8e;
+    padding-top: 40px;
+}
+footer{
+    height: 90px;
+    background-color:#008aff;
+    margin-top: 100px;
+}
+b{
+    color: white;
+}
+/*footer*/
